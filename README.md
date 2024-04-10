@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk memprediksi apakah aplikasi pinjaman rumah akan disetujui atau tidak berdasarkan berbagai fitur seperti pendapatan pemohon, jumlah tanggungan, jumlah pinjaman, dan lainnya. Model machine learning menggunakan dataset yang terdiri dari berbagai fitur tersebut untuk melakukan prediksi.
 
 ## Data
-Data yang digunakan dalam proyek ini tersedia dalam format CSV dan terdiri dari berbagai kolo, yakni:
+Data yang digunakan dalam proyek ini tersedia dalam format CSV dan terdiri dari berbagai kolom, yakni:
 - Loan_ID: ID peminjam (unique code)
 - Gender: jenis kelamin peminjam (Male/Female)
 - Dependents: jumlah tanggungan peminjam
